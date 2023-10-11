@@ -1,0 +1,6 @@
+from analysis.correlation import correlation
+from analysis.customer_satisfaction import customer_satisfaction
+from analysis.exploratory import exploratory
+from analysis.service_time import service_time
+from analysis.trends import trends
+from analysis.weight_and_shipping import weight_and_shipping
